@@ -1,2 +1,3 @@
 git commit --amend
 good morning
+hoge
